@@ -33,6 +33,7 @@ Over the past 3+ years, I've supported hundreds of client environments — desig
 
 - ConnectWise Automate Expert
 - ConnectWise RMM Certification Expert
+- NinjaOne Certified
 - Cloud Computing and Networking
 
 ---
